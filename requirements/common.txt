@@ -1,4 +1,4 @@
 Django==1.9.7
 django-custom-user==0.6
 dj-database-url==0.4.1
-
+djangorestframework
